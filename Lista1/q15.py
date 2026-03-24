@@ -11,4 +11,5 @@ num = int(input("Valor: "))
 if Primo(num):
     print("É primo")
 else:
+    
     print("Não é primo")
