@@ -1,9 +1,5 @@
 class maior:
-    def __init__(self, a, b, str):
-        self.valor_a = a
-        self.valor_b = b
-        self.op_str = str
-        self.novo = self.op_str    
+    q
 
     def calc(self):
         if self.op_str == "/":
