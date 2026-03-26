@@ -10,4 +10,4 @@ class Maximo:
             return max(self.a, self.b)
 
 m = Maximo(int(input("numero: ")), int(input("Numero: ")))
-print(m,calc_max)
+print(m.calc_max)
